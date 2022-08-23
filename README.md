@@ -21,3 +21,10 @@ Vous pouvez en ajouter et supprimer à votre guise, les workouts sont liés à l
 
 Pour en savoir plus, n'hésitez pas à me contacter via le formulaire de contact sur mon site web :
 https://www.cv.mr-greg.fr
+
+## Comment tester l'App ?
+- Cloner le repo
+- Avoir node d'installé
+- Installer les dépendences
+- Ouvrir un terminal dans le dossier backend -> "npm run dev"
+- Ouvrir un terminal dans le dossier frontend -> "npm run start"
